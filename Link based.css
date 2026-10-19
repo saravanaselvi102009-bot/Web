@@ -1,0 +1,19 @@
+/* Unvisited link */
+a:link {
+    color:crimson;
+}
+
+/* Visited link */
+a:Visited{
+    color:chartreuse;
+}
+
+/*hover */
+a:hover{
+    color:darkgreen;
+}
+
+/* Active */
+a:active{
+    color:darkblue;
+}

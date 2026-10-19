@@ -1,0 +1,13 @@
+
+div {
+    width: 200px;
+    height: 200px;
+    background-color: red;                  /* 1. Color Name */
+    background-color: #00FF00;              /* 2. HEX */
+    background-color: rgb(0, 0, 255);       /* 3. RGB */
+    background-color: rgba(255, 0, 0, 0.5); /* 4. RGBA */
+    background-color: hsl(60, 100%, 50%);   /* 5. HSL */
+    background-color: hsla(240, 100%, 50%, 0.5); /* 6. HSLA */
+}
+
+

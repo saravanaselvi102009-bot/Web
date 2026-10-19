@@ -1,0 +1,39 @@
+h1:first-child{
+    color:blue;
+}
+
+h4:last-child{
+    color: coral;
+}
+
+h5:first-of-type{
+    color:darkcyan;
+}
+
+h2:last-of-type{
+    color:deeppink;
+}
+
+p:nth-child(6){
+    color:brown;
+}
+
+h2:nth-last-child(3){
+    color:deepskyblue;
+}
+
+h5:nth-last-of-type(2){
+    color:indigo;
+}
+
+h2:nth-last-of-type(2){
+    color:darkolivegreen;
+}
+
+p:only-child{
+    color:blue;
+}
+
+h3:only-of-type{
+    color: maroon;
+}

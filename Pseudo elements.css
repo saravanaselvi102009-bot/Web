@@ -1,0 +1,32 @@
+h1::before {
+    content: "*";
+    color:darkred;
+}
+
+h1::after{
+    content:"*";
+    color:blueviolet;
+}
+
+p::first-letter{
+    font-size: 20px;
+    color:darkolivegreen;
+}
+
+p::first-line{
+    color:darkblue;
+    font-size: bold;
+}
+
+li::selection{
+    background-color: bisque;
+    color: black;
+}
+
+li::marker{
+    color:darkgreen;
+}
+
+input::placeholder{
+    color:darkorange;
+}

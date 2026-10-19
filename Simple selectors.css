@@ -1,0 +1,20 @@
+#heading{
+    color:blue;
+}
+
+.para{
+    color:darkmagenta;
+}
+
+h2{
+    color:chocolate;
+}
+
+h3,p{
+    color: darkgoldenrod;
+}
+
+*{
+    margin:5px;
+    color:deeppink;
+}

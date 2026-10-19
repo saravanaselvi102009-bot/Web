@@ -1,0 +1,16 @@
+p{
+    font-size:50px;
+    color:palevioletred;
+    text-align:justify;
+    text-align-last: center;
+    text-transform: lowercase;
+    text-indent:10px;
+    text-shadow:3px 3px 1px;
+    line-height:40px;
+    letter-spacing:1px;
+    word-spacing:2px;
+    text-decoration:underline;
+    text-decoration-thickness:1px;
+    text-decoration-color: gold;
+    text-decoration-style: wavy;
+}

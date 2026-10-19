@@ -1,0 +1,55 @@
+.img{
+    height: 200px;
+    width: 200px;
+    background-color: blue;
+    animation-name: animation;
+    animation-duration:5s;
+    animation-delay: 1s;
+    position:sticky;
+    animation-iteration-count: infinite;
+    /* margin-left: 300px; */
+    /* transform: rotate(100deg);
+    transform: skew(50deg,76deg); */
+    animation-timing-function: ease;
+    
+    /* transform: scaley(1); */
+}
+@keyframes animation
+{
+    from{
+        left: 500px;
+        
+    }
+    to{
+
+        right: 100px;
+        background-color: palevioletred;
+    }
+     /* 0%{
+        top:150px;
+        left: 500px;
+        background-color: yellow;
+     }
+     25%{
+        top: 500px;
+        right: 400px; 
+        background-color:green;
+     }
+     100%{
+        bottom: 500px;
+        right: 600px;
+        background-color: red; */
+
+     }
+    
+     /* 100%{
+        
+        background-color: cyan;
+     } */
+
+#a{
+    height: 1000px;
+    width: 1000px;
+    background-color: goldenrod;
+}
+
